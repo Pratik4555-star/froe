@@ -1,0 +1,99 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    padding: 10px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(figure.jpg);
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+
+body {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Josefin Slab', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Sevillana', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mam {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.ashoka {
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    width: 40pc;
+    height: 20pc;
+    border: 3px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+    border-color: #009579;
+}
+
+.screw {
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    width: 40pc;
+    height: 20pc;
+    border: 3px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+    border-color: #009579;
+}
+
+.glory {
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    width: 40pc;
+    height: 20pc;
+    border: 3px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+    border-color: #009579;
+}
+
+.sundrew {
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    width: 40pc;
+    height: 20pc;
+    border: 3px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+    border-color: #009579;
+}
+
+.hya {
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    width: 40pc;
+    height: 20pc;
+    border: 3px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+    border-color: #009579;
+}
